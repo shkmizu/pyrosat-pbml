@@ -54,5 +54,7 @@ A garra foi modelada com variaveis parametricas que permitem ajustar todas as di
 
 ### Imagens do Modelo 3D
 
-![Frente](images/modelo_3d_frente.png)
-![Perspectiva](images/modelo_3d_perspectiva.png)
+![1](images/modelo3d1.png)
+![2](images/modelo3d2.png)
+![3](images/Modelo3d3.png)
+![4](images/modelo3d4.png)
