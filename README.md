@@ -58,3 +58,4 @@ A garra foi modelada com variaveis parametricas que permitem ajustar todas as di
 ![2](images/modelo3d2.png)
 ![3](images/Modelo3d3.png)
 ![4](images/modelo3d4.png)
+![5](images/modelo3d5.png)
