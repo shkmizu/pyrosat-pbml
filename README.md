@@ -32,3 +32,27 @@ https://www.tinkercad.com/things/hUp4KhdnFGA
 - 2x Micro Servo 9g
 - 1x LED
 - 1x Resistor 220 ohms
+
+
+## Modelagem 3D
+
+**Software utilizado:** OpenSCAD
+
+A garra foi modelada com variaveis parametricas que permitem ajustar todas as dimensoes da peca alterando apenas os valores no inicio do codigo.
+
+**Variaveis principais:**
+- `largura_corpo` - largura total da garra (padrao: 50mm)
+- `comprimento_dedo` - comprimento de cada dedo (padrao: 35mm)
+- `abertura_dedo` - espaco de captura entre os dedos (padrao: 18mm)
+- `servo_largura` / `servo_profundidade` - encaixe do servo 9g (23mm x 12mm)
+
+**Detalhes do design:**
+- Corpo base com encaixe preciso para servo de 9g
+- Dois dedos com ganchos curvos para captura em microgravidade
+- Furos M3 para fixacao mecanica
+- Design autoral baseado em garras de captura de satelites reais
+
+### Imagens do Modelo 3D
+
+![Frente](images/modelo_3d_frente.png)
+![Perspectiva](images/modelo_3d_perspectiva.png)
